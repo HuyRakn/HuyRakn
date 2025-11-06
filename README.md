@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=~$+Hi+there!+I'm+Huy+Ho+👋;~$+I+am+a+Software+Engineer;~$+Passionate+about+Web3+%26+Blockchain;~$+Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Huy%20Ho%20(HuyRakn)&fontSize=40&fontFamily=Fira%20Code&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=~$+I+am+a+Software+Engineer;~$+Passionate+about+Web3+%26+Blockchain;~$+Vietnamese+Developer;~$+Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 ---
@@ -48,7 +52,7 @@
 </div>
 
 ## 🏆 Achievements
-> Đã cập nhật username thành **HuyRakn**
+> Đã cập nhật username thành **HuyRakn** (Có thể mất vài phút để hiển thị)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HuyRakn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
@@ -62,7 +66,7 @@
 </div>
 
 ## 🐍 My Contribution Snake
-> Hiệu ứng "rắn" chạy qua lịch sử đóng góp của bạn.
+> **QUAN TRỌNG:** Ảnh này sẽ hiển thị sau khi bạn thiết lập GitHub Action (xem hướng dẫn ở trên).
 
 <div align="center">
   <img src="https://github.com/HuyRakn/HuyRakn/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
