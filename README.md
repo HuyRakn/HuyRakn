@@ -1,19 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Huy%20Ho%20👋&fontSize=40&fontFamily=Fira%20Code&animation=twinkling&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=~$+Hi+there!+I'm+Huy+Ho+👋;~$+I+am+a+Software+Engineer;~$+Passionate+about+Web3+%26+Blockchain;~$+Always+learning+new+things!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+am+a+Software+Engineer;Passionate+about+Web3+%26+Blockchain;Vietnamese+Developer;Always+learning+new+things!" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 My Featured Projects
-> Đây là những dự án nổi bật mà mình đã xây dựng. Bạn hãy thay thế bằng các dự án của riêng bạn nhé!
-
-* **[Tên Dự Án 1](link-den-repo)**: Mô tả ngắn gọn về dự án, công nghệ chính sử dụng (ví dụ: Một sàn DEX được xây dựng trên Solana với Rust và React).
-* **[Tên Dự Án 2](link-den-repo)**: Mô tả ngắn gọn về dự án, công nghệ chính sử dụng (ví dụ: Ứng dụng di động Flutter dự đoán bệnh sử dụng Machine Learning).
-* **[Tên Dự Án 3](link-den-repo)**: Mô tả ngắn gọn về dự án, công nghệ chính sử dụng (ví dụ: Công cụ CLI bằng Python để quản lý instance EC2).
 
 ---
 
@@ -75,7 +62,7 @@
 </div>
 
 ## 🐍 My Contribution Snake
-> Thêm hiệu ứng "rắn" chạy qua lịch sử đóng góp của bạn.
+> Hiệu ứng "rắn" chạy qua lịch sử đóng góp của bạn.
 
 <div align="center">
   <img src="https://github.com/HuyRakn/HuyRakn/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
