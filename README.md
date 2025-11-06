@@ -9,7 +9,6 @@
 ---
 
 ## 💼 Skills & Technologies
-> Sử dụng skillicons.dev cho các icon hiện đại và có hiệu ứng hover đẹp mắt.
 
 <div align="center">
   
@@ -32,7 +31,6 @@
 ---
 
 ## 🔧 My Dev Environment
-> Thêm các công cụ, HĐH và phần cứng bạn sử dụng hàng ngày.
 
 <div align="center">
   <img src="https://img.shields.io/badge/OS-MacOS-blue?style=for-the-badge&logo=apple" />
@@ -44,7 +42,6 @@
 ---
 
 ## 📊 GitHub Stats
-> Đã cập nhật username thành **HuyRakn**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuyRakn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -52,7 +49,6 @@
 </div>
 
 ## 🏆 Achievements
-> Đã cập nhật username thành **HuyRakn** (Có thể mất vài phút để hiển thị)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HuyRakn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
@@ -66,7 +62,6 @@
 </div>
 
 ## 🐍 My Contribution Snake
-> **QUAN TRỌNG:** Ảnh này sẽ hiển thị sau khi bạn thiết lập GitHub Action (xem hướng dẫn ở trên).
 
 <div align="center">
   <img src="https://github.com/HuyRakn/HuyRakn/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
