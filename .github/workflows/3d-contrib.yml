@@ -10,16 +10,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Create settings file
+        run: |
+          cat > /tmp/settings.json << 'EOF'
+          {
+            "githubUserName": "HuyRakn",
+            "type": "GitHubNight",
+            "fileName": "profile-3d-contrib/profile-night-rainbow.svg"
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: HuyRakn
-          SETTING_JSON: |
-            {
-              "githubUserName": "HuyRakn",
-              "type": "GitHubNight",
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg"
-            }
+          SETTING_JSON: /tmp/settings.json
 
       - name: Commit and push generated SVG
         run: |
