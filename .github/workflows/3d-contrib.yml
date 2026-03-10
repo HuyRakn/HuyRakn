@@ -18,7 +18,7 @@ jobs:
           {
             "githubUserName": "HuyRakn",
             "type": "GitHubDark",
-            "backgroundColor": "#0d1117"
+            "backgroundColor": "#0d1117",
             "fileName": "profile-night-rainbow.svg"
           }
           EOF
