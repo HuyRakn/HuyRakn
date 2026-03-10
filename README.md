@@ -1,107 +1,389 @@
+<!-- ═══════════════════════════════════════
+     HUY RAKN · HuyRakn · Blockchain Dev 2026
+     ═══════════════════════════════════════ -->
+
+<!-- ██  HEADER  ██ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Huy%20Ho%20(HuyRakn)&fontSize=40&fontFamily=Fira%20Code&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=260&section=header&text=HUY_RAKN&fontSize=96&fontFamily=Fira%20Code&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Web3%20and%20Blockchain%20Developer&descSize=22&descAlignY=65&descColor=dddddd" />
 </div>
 
+<!-- ██  TYPING  ██ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=~$+I+am+a+Software+Engineer;~$+Passionate+about+Web3+%26+Blockchain;~$+Vietnamese+Developer;~$+Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=14F195&center=true&vCenter=true&repeat=true&width=680&height=48&lines=Blockchain+Dev+%7C+Ethereum+%26+Solana;Smart+Contracts+%7C+Anchor+%7C+Rust;ZK-Proofs+%7C+ZK-SNARKs+%7C+Circom;AI+Agents+%7C+Autonomous+On-Chain+Systems;Building+the+Future+from+Da+Nang" />
+</div>
+
+<br/>
+
+<!-- ██  BADGES  ██ -->
+<div align="center">
+  <a href="https://github.com/HuyRakn"><img src="https://img.shields.io/github/followers/HuyRakn?label=Followers&style=for-the-badge&logo=github&color=14F195&labelColor=0d1117&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HuyRakn&label=Views&color=9945FF&labelColor=0d1117&style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/Level-Fresher%20Dev-14F195?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D26A?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Da%20Nang-Vietnam-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
+</div>
+
+<br/>
+
+---
+
+<!-- ██  ABOUT ME  ██ -->
+## 👨‍💻 &nbsp;About Me
+
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<tr>
+
+<!-- ════ LEFT: CODE IDENTITY ════ -->
+<td width="52%" valign="top">
+
+```ts
+// huy.config.ts · HuyRakn · 2026
+
+const dev = {
+  name     : "Huy Ho",
+  alias    : "HuyRakn",
+  location : "Da Nang City, Vietnam 🇻🇳",
+  level    : "Fresher Developer",
+  focus    : [
+    "⟠  Ethereum · EVM · Solidity · Hardhat",
+    "◎  Solana · SVM · Rust · Anchor",
+    "Ξ  ZK-Proofs · Circom · Groth16 · Halo2",
+    "⬡  AI Agents · LangChain · On-Chain ML",
+    "◈  DeFi · Protocol Design · Web3 Arch",
+  ],
+  stack : {
+    chain  : ["Solana","ETH","Rust","Anchor"],
+    zk     : ["Circom","Groth16","ZK-SNARKs"],
+    ai     : ["LangChain","Jupyter","Kaggle"],
+    web    : ["Next.js","React","Shadcn UI"],
+    mobile : ["Swift","Dart","Flutter"],
+    infra  : ["Vercel","Railway","Clerk"],
+  },
+  open_to : ["Internships","OSS","Hackathons"],
+  motto   : "Fresher today. Builder always 🚀",
+};
+```
+
+</td>
+
+<!-- ════ RIGHT: VISUAL STATS ════ -->
+<td width="48%" valign="top">
+
+<br/>
+
+**⚡ 2026 Primary Focus**
+
+![ETH](https://img.shields.io/badge/Ethereum-EVM%20%26%20Solidity-627EEA?style=flat-square&logo=ethereum&logoColor=white&labelColor=0d1117)
+![Solana](https://img.shields.io/badge/Solana-SVM%20%26%20Anchor-14F195?style=flat-square&logo=solana&logoColor=black&labelColor=0d1117)
+![ZK](https://img.shields.io/badge/ZK--Proofs-Circom%20%26%20Groth16-9945FF?style=flat-square&labelColor=0d1117)
+![AI](https://img.shields.io/badge/AI%20Agents-LangChain%20%26%20On--Chain-F7931E?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117)
+
+**📚 Learning Progress**
+
+![Solidity](https://img.shields.io/badge/Solidity-40%25-363636?style=flat-square&logo=solidity&logoColor=white&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust%20%2F%20Anchor-35%25-CE412B?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117)
+![ZK](https://img.shields.io/badge/ZK--SNARKs-15%25-6D28D9?style=flat-square&labelColor=0d1117)
+![AI](https://img.shields.io/badge/AI%20Agents-20%25-F7931E?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+
+**🛠️ Full Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)&nbsp;![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)&nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**☁️ Infrastructure**
+
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)&nbsp;![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway)&nbsp;![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)&nbsp;![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**🤝 Open To**
+
+![Internship](https://img.shields.io/badge/Internship-Available-00D26A?style=flat-square&labelColor=0d1117)&nbsp;![OSS](https://img.shields.io/badge/Open%20Source-Contributing-14F195?style=flat-square&labelColor=0d1117)&nbsp;![Hackathon](https://img.shields.io/badge/Hackathons-Joining-9945FF?style=flat-square&labelColor=0d1117)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ██  TECH STACK  ██ -->
+## ⚙️ &nbsp;Technology Arsenal
+
+<div align="center">
+
+**⛓ &nbsp;Blockchain · ZK · AI**
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,wasm,python,pytorch,tensorflow&theme=dark" />
+
+<br/>
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=14F195)&nbsp;![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)&nbsp;![Rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white)&nbsp;![Anchor](https://img.shields.io/badge/Anchor-1B1F2E?style=for-the-badge&logoColor=14F195)&nbsp;![ZK--SNARKs](https://img.shields.io/badge/ZK--SNARKs-6D28D9?style=for-the-badge&logoColor=white)&nbsp;![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+<br/>
+
+**🌐 &nbsp;Frontend · Mobile · Backend · Infra**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,swift,dart,flutter,cs,nodejs,vercel,docker,git&theme=dark" />
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![Shadcn UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp;![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)&nbsp;![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+
 </div>
 
 ---
 
-## 💼 Skills & Technologies
+<!-- ██  GITHUB STATS  ██ -->
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  
-### 🌐 Web & App Development
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,py,flutter" /></a>
-</p>
-
-### ⛓️ Blockchain & Web3
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity,solana,rust,web3js" /></a>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" /></a>
-</p>
+  <img src="https://streak-stats.demolab.com?user=HuyRakn&theme=tokyonight&background=0d1117&border=30363d&ring=9945FF&fire=14F195&currStreakLabel=14F195&sideLabels=8b949e&dates=8b949e&border_radius=12&card_width=860" />
 </div>
 
 ---
 
-## 🔧 My Dev Environment
+<!-- ██  PROFILE SUMMARY CARDS ██ -->
+## 📈 &nbsp;Contribution Overview
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-MacOS-blue?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-purple?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Terminal-iTerm2-green?style=for-the-badge&logo=iterm2" />
-  <img src="https://img.shields.io/badge/Browser-Brave-orange?style=for-the-badge&logo=brave" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuyRakn&theme=2077" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuyRakn&theme=2077" />&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuyRakn&theme=2077" />&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuyRakn&theme=2077" />&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuyRakn&theme=2077&utcOffset=7" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ██  ACTIVITY GRAPH  ██ -->
+## 📉 &nbsp;Commit Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuyRakn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyRakn&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuyRakn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuyRakn&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/HuyRakn/HuyRakn/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyRakn&theme=tokyo-night&bg_color=0d1117&color=14F195&line=9945FF&point=14F195&area=true&hide_border=true&radius=6" />
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Building innovative **Web3 applications** on **Solana**
-- 📱 Developing **Mobile applications** and **Web fullstack** projects
-- 🌱 Learning advanced **Smart Contract development** with **Rust**
-- 💡 Exploring **DeFi** and **NFT** technologies on **Solana**
-- 📚 Sharing knowledge about **Crypto** and **Web3**
-
-## 📫 Connect with Me
+<!-- ██  SNAKE  ██ -->
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/huyht1302/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/HuyRakn">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/huyht1302">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/huy.ht.1302">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuyRakn/HuyRakn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuyRakn/HuyRakn/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" width="100%" src="https://raw.githubusercontent.com/HuyRakn/HuyRakn/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> ⚙️ *Auto-updated every 24h via GitHub Actions — see setup below*
+
+---
+
+<!-- ██  3D GRAPH  ██ -->
+## 🌆 &nbsp;3D Contribution Cityscape
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HuyRakn/HuyRakn/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" />
+</div>
+
+<details>
+<summary><b>⚙️ Hướng dẫn chi tiết tạo 3D Graph — làm 1 lần, tự chạy mãi mãi</b></summary>
+
+<br/>
+
+> **Tổng thời gian:** ~5 phút &nbsp;|&nbsp; **Khó:** ⭐☆☆☆☆ &nbsp;|&nbsp; **Cần:** GitHub account
+
+---
+
+### 📁 Bước 1 — Tạo file workflow
+
+Trong repo `HuyRakn/HuyRakn`, tạo file mới tại đường dẫn:
+
+```
+.github/workflows/3d-contrib.yml
+```
+
+> Nếu thư mục `.github/workflows/` chưa có, tạo mới hoàn toàn bình thường.
+
+Dán nội dung này vào file:
+
+```yaml
+name: 3D Contribution Graph
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Chạy mỗi ngày lúc 1:00 AM ICT (18:00 UTC)
+  workflow_dispatch:         # Cho phép chạy thủ công bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HuyRakn
+          SETTING_JSON: |
+            {
+              "githubUserName": "HuyRakn",
+              "type": "GitHubNight",
+              "fileName": "profile-3d-contrib/profile-night-rainbow.svg"
+            }
+
+      - name: Commit and push generated SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "ci: update 3D contribution graph" || exit 0
+          git push
+```
+
+Commit file này vào nhánh `main`.
+
+---
+
+### ▶️ Bước 2 — Chạy thủ công lần đầu tiên
+
+**GitHub Actions không tự chạy lần đầu** — bạn phải trigger thủ công 1 lần duy nhất:
+
+```
+1. Mở trình duyệt → github.com/HuyRakn/HuyRakn
+2. Click tab "Actions" (thanh menu ngang, giữa Pull requests và Projects)
+3. Bên trái, tìm và click "3D Contribution Graph"
+4. Bên phải xuất hiện nút "Run workflow" → click vào
+5. Dropdown hiện ra, giữ nguyên branch "main" → click nút xanh "Run workflow"
+6. Trang tự refresh, thấy 1 workflow đang chạy (icon vòng tròn vàng)
+7. Click vào workflow đó → xem log realtime
+8. Đợi ~2-3 phút đến khi icon chuyển xanh (✅ thành công)
+```
+
+---
+
+### ✅ Bước 3 — Kiểm tra kết quả
+
+Sau khi workflow chạy xong:
+
+```
+1. Quay lại tab "Code" của repo
+2. Bạn sẽ thấy thư mục "profile-3d-contrib/" vừa được tạo
+3. Bên trong có file "profile-night-rainbow.svg"
+4. Mở github.com/HuyRakn → profile của bạn → 3D graph đã hiển thị! 🎉
+```
+
+---
+
+### 🔄 Sau lần đầu
+
+Workflow sẽ **tự động chạy mỗi ngày lúc 1:00 AM ICT** — không cần làm gì thêm.
+
+Bạn cũng có thể trigger thủ công bất cứ lúc nào bằng cách lặp lại Bước 2.
+
+---
+
+### ❗ Troubleshooting
+
+| Lỗi | Nguyên nhân | Fix |
+|:---|:---|:---|
+| `Permission denied` | Repo chưa cho Actions write permission | Settings → Actions → General → Workflow permissions → Read and write |
+| Workflow không thấy ở sidebar | File yml chưa được push lên main | Kiểm tra lại file có trong `.github/workflows/` chưa |
+| SVG trống / đen | Username sai | Kiểm tra `USERNAME: HuyRakn` trong yml |
+
+</details>
+
+---
+
+<!-- ██  ROADMAP  ██ -->
+## 🎯 &nbsp;2026 Learning Roadmap
+
+<div align="center">
+
+| Domain | Stack | Status |
+|:---|:---|:---:|
+| **Ethereum Smart Contracts** | Solidity · Hardhat · Foundry | 🟡 Building |
+| **Solana Programs** | Rust · Anchor · Sealevel VM | 🟡 Building |
+| **Zero-Knowledge Proofs** | Circom · Groth16 · ZK-SNARKs | 🔵 Exploring |
+| **AI Agents On-Chain** | LangChain · Python · Autonomous | 🔵 Exploring |
+| **DeFi Protocol Design** | AMM · Lending · Yield | ⚪ Planned |
+| **Cross-chain Messaging** | LayerZero · Wormhole | ⚪ Planned |
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HuyRakn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **⭐ Don't forget to star my repositories if you find them interesting!**
-</div>
+<!-- ██  DEV SETUP  ██ -->
+## 🖥️ &nbsp;Dev Setup
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white&labelColor=0d1117" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
 </div>
+
+---
+
+<!-- ██  CONNECT  ██ -->
+## 📡 &nbsp;Connect
+
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/huyht1302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://x.com/huyht1302"><img src="https://img.shields.io/badge/X%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://github.com/HuyRakn"><img src="https://img.shields.io/badge/GitHub-HuyRakn-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+  <a href="https://www.facebook.com/huy.ht.1302"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
+  <br/><br/>
+  <a href="mailto:huyht1302@gmail.com"><img src="https://img.shields.io/badge/Email-huyht1302%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=555555&center=true&vCenter=true&width=620&lines=Fresher+today.+Senior+tomorrow.;Building+in+public+from+Da+Nang.;ZK+is+truth.+Code+is+law.+Ship+it." />
+</div>
+
+<!-- ██  FOOTER  ██ -->
+<br/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=130&section=footer&text=Building%20the%20Decentralized%20Future&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+</div>
+
+<!--
+════════════════════════════════════════
+  SNAKE WORKFLOW
+  Path: .github/workflows/snake.yml
+════════════════════════════════════════
+name: Contribution Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+════════════════════════════════════════
+
+════════════════════════════════════════
+  FIX STATS CARDS (takes 3 minutes)
+════════════════════════════════════════
+  1. Go to github.com/anuraghazra/github-readme-stats
+  2. Click Fork
+  3. Go to vercel.com → New Project → Import your fork
+  4. Add Environment Variable: GITHUB_TOKEN = your PAT
+  5. Deploy → copy your Vercel URL
+  6. Replace "github-readme-stats.vercel.app" in this 
+     README with your own URL
+════════════════════════════════════════
+-->
