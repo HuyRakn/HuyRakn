@@ -17,7 +17,7 @@ jobs:
           cat > /tmp/settings.json << 'EOF'
           {
             "githubUserName": "HuyRakn",
-            "type": "GitHubDark",
+            "type": "GitHubNightRainbow",
             "backgroundColor": "#0d1117",
             "fileName": "profile-night-rainbow.svg"
           }
