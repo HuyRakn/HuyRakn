@@ -1,4 +1,5 @@
 name: 3D Contribution Graph
+
 on:
   schedule:
     - cron: "0 18 * * *"
@@ -7,31 +8,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Create settings file
-        run: |
-          cat > /tmp/settings.json << 'EOF'
-          {
-            "githubUserName": "HuyRakn",
-            "type": "night-rainbow"
-          }
-          EOF
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: HuyRakn
-          MAX_REPOS: 100
-          SETTING_JSON: /tmp/settings.json
+          SETTING_JSON: |
+            {
+              "type": "GitHubNightRainbow",
+              "backgroundColor": "#0d1117",
+              "githubUserName": "HuyRakn",
+              "fileName": "profile-night-rainbow.svg"
+            }
 
       - name: Commit and push
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add -A
-          git commit -m "ci: update 3D contribution graph" || exit 0
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "update 3D contribution graph" || exit 0
           git push
