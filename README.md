@@ -176,8 +176,6 @@ const dev = {
   </picture>
 </div>
 
-> ⚙️ *Auto-updated every 24h via GitHub Actions — see setup below*
-
 ---
 
 <!-- ██  3D GRAPH  ██ -->
