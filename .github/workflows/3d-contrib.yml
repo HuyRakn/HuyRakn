@@ -1,0 +1,30 @@
+name: 3D Contribution Graph
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Chạy mỗi ngày lúc 1:00 AM ICT (18:00 UTC)
+  workflow_dispatch:         # Cho phép chạy thủ công bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: HuyRakn
+          SETTING_JSON: |
+            {
+              "githubUserName": "HuyRakn",
+              "type": "GitHubNight",
+              "fileName": "profile-3d-contrib/profile-night-rainbow.svg"
+            }
+
+      - name: Commit and push generated SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "ci: update 3D contribution graph" || exit 0
+          git push
